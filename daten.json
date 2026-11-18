@@ -1,0 +1,127 @@
+{
+ "firma": "Agrarproduktion Lindstedt",
+ "stelle": "Herdenmanager (m/w/d)",
+ "ort": "Gardelegen",
+ "plz": "39638",
+ "branche": "landwirtschaft",
+ "stelle_id": 1507,
+ "firma_genitiv": "von Agrarproduktion Lindstedt",
+ "farbe_primary": "#2F7D25",
+ "farbe_secondary": "#282828",
+ "region_badge": "Gardelegen & Umgebung",
+ "benefit_top": "Unbefristet & mit Jahresprämie",
+ "benefits": [
+  "Unbefristeter Arbeitsvertrag in Vollzeit",
+  "Jahresprämie & vermögenswirksame Leistungen",
+  "Betriebliche Altersvorsorge",
+  "Flexible Arbeitszeiten & flache Hierarchien",
+  "Hilfe bei der Wohnungssuche & Kita-Zuschuss",
+  "Firmenhandy & Jobrad-Leasing",
+  "Kostenübernahme für berufliche Zertifizierungen & den Anhängerführerschein",
+  "Freundliches Arbeitsklima"
+ ],
+ "aufgaben": [
+  "Du verantwortest Herdenführung und Tiergesundheit",
+  "Du kümmerst dich um Fütterung und Zucht",
+  "Du nutzt digitales Herdenmanagement",
+  "Du koordinierst das Team"
+ ],
+ "anforderung": "Eine abgeschlossene Ausbildung als Land- oder Tierwirt – idealerweise Agrarbetriebswirt oder Meister – und praktische Erfahrung in der Milchviehhaltung. Dazu ein geschultes Auge für das Tier, sicherer Umgang mit moderner Stalltechnik und Management-Programmen, Zuverlässigkeit, Verantwortungsbewusstsein und Führerschein Klasse B.",
+ "fachrichtungen_frage": "Was ist dein beruflicher Hintergrund?",
+ "fachrichtungen": [
+  {
+   "label": "Tierwirt / Milchvieh",
+   "icon": "🐄",
+   "qualifikationen": [
+    {
+     "label": "Abgeschlossene Ausbildung",
+     "icon": "📘"
+    },
+    {
+     "label": "Meister / Agrarbetriebswirt",
+     "icon": "🎓"
+    },
+    {
+     "label": "Erfahren ohne Abschluss",
+     "icon": "💪"
+    }
+   ]
+  },
+  {
+   "label": "Landwirt / Landwirtschaft",
+   "icon": "🚜",
+   "qualifikationen": [
+    {
+     "label": "Abgeschlossene Ausbildung",
+     "icon": "📘"
+    },
+    {
+     "label": "Meister / Agrarbetriebswirt",
+     "icon": "🎓"
+    },
+    {
+     "label": "Erfahren ohne Abschluss",
+     "icon": "💪"
+    }
+   ]
+  },
+  {
+   "label": "Anderer Bereich",
+   "icon": "🔄",
+   "qualifikationen": [
+    {
+     "label": "Studium in anderem Fach",
+     "icon": "🎓"
+    },
+    {
+     "label": "Ausbildung in anderem Beruf",
+     "icon": "📘"
+    },
+    {
+     "label": "Erfahren ohne Abschluss",
+     "icon": "💪"
+    }
+   ]
+  }
+ ],
+ "ueber": {
+  "fakten": [
+   {
+    "zahl": "650",
+    "label": "Milchkühe"
+   },
+   {
+    "zahl": "28",
+    "label": "Mitarbeiter"
+   },
+   {
+    "zahl": "2.000",
+    "label": "Hektar"
+   }
+  ],
+  "text": "Die Agrarproduktion Lindstedt eG ist ein landwirtschaftliches Unternehmen in der Altmark mit Sitz in Gardelegen. Sie bewirtschaftet 2.000 Hektar, davon 1.300 Hektar Ackerland und 700 Hektar Grünland. Täglich werden 650 Milchkühe gemolken, dazu kommen 150 Mutterkühe. Die Kombination aus Ackerbau und Tierhaltung steht für einen nachhaltigen Ansatz und einen stabilen Beitrag zur regionalen Wirtschaft."
+ },
+ "kunde_tab": "62 Agrarproduktion Lindstedt",
+ "quelle": "https://agrarproduktion-lindstedt.green-careers.de",
+ "logo": "logo.png",
+ "karte": {
+  "bild": "img/karte.jpg",
+  "label": "Gardelegen (39638)"
+ },
+ "hero_bild": "img/hero-herde-weide.jpg",
+ "bilder": [
+  "img/f-melkkarussell.jpg",
+  "img/f-kuh-futter.jpg",
+  "img/f-karussell-rund.jpg",
+  "img/f-kalb.jpg",
+  "img/f-stall-mischwagen.jpg",
+  "img/f-firmenwagen.jpg"
+ ],
+ "video": {
+  "src": "img/video.mp4",
+  "poster": "img/video-poster.jpg"
+ },
+ "meta_geo": [
+  "Lindstedterhorst 40, 39638 Gardelegen"
+ ]
+}
